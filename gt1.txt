@@ -1,3 +1,6 @@
 Adding new file from github directly
 
 Want to check if this was fetch from main
+
+make a commit in both remote and local tracked branch:
+Merged from remote gt_br1 branch
