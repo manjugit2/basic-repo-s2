@@ -2,4 +2,10 @@ Adding new file from github directly
 
 line 1 reb
 
-line 2 reb
+tags
+
+tags 2
+
+tags 3
+
+detached head 1 commit
