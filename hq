@@ -1,0 +1,69 @@
+[33mcommit 36665cbc34b7526456e72be08928fd1928612ef6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdet_hd_br1[m[33m)[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 19:53:26 2026 +0530
+
+    detached head commit 1
+
+[33mcommit 65aca9394d8bdd4c891bc9a1549edfc6d249fbfc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mreb[m[33m)[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 19:15:15 2026 +0530
+
+    commit 2 on reb branch
+
+[33mcommit 2de6f7c4a87afdbfaef85e37e8a4ac0c54c55ffe[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 19:14:56 2026 +0530
+
+    commit 1 on reb branch
+
+[33mcommit 7c1c5a5546b899bf76a65c1220ed3e947426134b[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 19:17:21 2026 +0530
+
+    master line 2 commit
+
+[33mcommit 9ae786ece31b64690f52fae0225395ed2b6a7297[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 19:16:42 2026 +0530
+
+    master line 1 commit
+
+[33mcommit d253d46cc8f70238651be4e364d9cb061f276275[m[33m ([m[1;33mtag: [m[1;33mv3.0.0[m[33m, [m[1;33mtag: [m[1;33m1.1.1[m[33m)[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 18:22:39 2026 +0530
+
+    tags 3
+
+[33mcommit 3fbf84a9d1b1094770c048629b1eb8c3868eab12[m[33m ([m[1;33mtag: [m[1;33mV2.0.0[m[33m)[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 18:12:57 2026 +0530
+
+    tags 2
+
+[33mcommit e1e1d855be49714baf789f0ea078848d3ce02c4b[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m)[m
+Author: Manjunath Shellikeri <manju.ss1977@gmail.com>
+Date:   Sun Aug 23 18:11:04 2026 +0530
+
+    tags
+
+[33mcommit 8c6f13057e5f338d4ca86b4579437978b952dce7[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;32mtemp[m[33m)[m
+Author: manjugit2 <manju.ss1977@gmail.com>
+Date:   Wed Aug 12 19:44:29 2026 +0530
+
+    Add new file gt1.txt from github directly
+    
+    Add new file gt1.txt from github directly
+
+[33mcommit 9b50de5f0b3989529079aa81656aff05550ca93b[m
+Author: manjugit2 <manju.ss1977@gmail.com>
+Date:   Wed Aug 12 19:41:30 2026 +0530
+
+    Updated readme
+    
+    Updated readme
+
+[33mcommit d3a4d4527b131b778485d74bcf264934b9e6d999[m
+Author: manjugit2 <manju.ss1977@gmail.com>
+Date:   Wed Aug 12 19:38:37 2026 +0530
+
+    Initial commit
